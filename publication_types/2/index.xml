@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 on Sandipan Roy</title>
+    <link>https://roysandipan.github.io/publication_types/2/</link>
+    <description>Recent content in 2 on Sandipan Roy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Mon, 26 Sep 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://roysandipan.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Change-Point Estimation in High-Dimensional Markov Random Field Models</title>
+      <link>https://roysandipan.github.io/publication/changepoint_graph_paper/</link>
+      <pubDate>Mon, 26 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://roysandipan.github.io/publication/changepoint_graph_paper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian Inference in Nonparametric Dynamic State-Space Models</title>
+      <link>https://roysandipan.github.io/publication/state-space_paper/</link>
+      <pubDate>Wed, 19 Feb 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://roysandipan.github.io/publication/state-space_paper/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

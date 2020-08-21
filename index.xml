@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sandipan Roy on Sandipan Roy</title>
+    <link>https://roysandipan.github.io/</link>
+    <description>Recent content in Sandipan Roy on Sandipan Roy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0100</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>CV</title>
+      <link>https://roysandipan.github.io/cv/</link>
+      <pubDate>Wed, 22 Apr 2020 00:00:00 +0100</pubDate>
+      
+      <guid>https://roysandipan.github.io/cv/</guid>
+      <description>&lt;a href=&#34;https://roysandipan.github.io/files/cv.pdf&#34;&gt;Download my CV&lt;/a&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Likelihood Inference for Large Scale Stochastic Blockmodels with Covariates based on a Divide-and-Conquer Parallelizable Algorithm with Communication</title>
+      <link>https://roysandipan.github.io/publication/parallel_algorithm_paper/</link>
+      <pubDate>Tue, 07 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://roysandipan.github.io/publication/parallel_algorithm_paper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Change-Point Estimation in High-Dimensional Markov Random Field Models</title>
+      <link>https://roysandipan.github.io/publication/changepoint_graph_paper/</link>
+      <pubDate>Mon, 26 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://roysandipan.github.io/publication/changepoint_graph_paper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian Inference in Nonparametric Dynamic State-Space Models</title>
+      <link>https://roysandipan.github.io/publication/state-space_paper/</link>
+      <pubDate>Wed, 19 Feb 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://roysandipan.github.io/publication/state-space_paper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ISIS and NISIS: New Bilingual Dual-Channel Speech Corpora for Robust Speaker Recognition</title>
+      <link>https://roysandipan.github.io/publication/speaker_recognition_paper/</link>
+      <pubDate>Tue, 31 Jul 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://roysandipan.github.io/publication/speaker_recognition_paper/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

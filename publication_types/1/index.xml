@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 on Sandipan Roy</title>
+    <link>https://roysandipan.github.io/publication_types/1/</link>
+    <description>Recent content in 1 on Sandipan Roy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Tue, 31 Jul 2012 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://roysandipan.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>ISIS and NISIS: New Bilingual Dual-Channel Speech Corpora for Robust Speaker Recognition</title>
+      <link>https://roysandipan.github.io/publication/speaker_recognition_paper/</link>
+      <pubDate>Tue, 31 Jul 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://roysandipan.github.io/publication/speaker_recognition_paper/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
