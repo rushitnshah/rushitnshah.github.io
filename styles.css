@@ -1,7 +1,7 @@
 
 
 
-  
+
 /*************************************************
  *  Hugo Academic: an academic theme for Hugo.
  *  Designed by @GeorgeCushen.
@@ -115,14 +115,14 @@ h4, h5, h6 {
 
 a,
 h3.article-title a:hover {
-  color: #0095eb;
+  color: #9B2F4E;
   text-decoration: none;
   transition: color 0.6s ease;
 }
 
 a:hover,
 a:focus {
-  color: #0095eb;
+  color: #9B2F4E;
 }
 
 img,
@@ -500,7 +500,7 @@ a[data-fancybox] img {
 .featurette-icon {
   display: block;
   width: 100%;
-  color: #0095eb;
+  color: #9B2F4E;
   font-size: 3rem;
   text-align: center;
 }
@@ -717,7 +717,7 @@ article .article-metadata {
 }
 
 .article-metadata a:hover {
-  color: #0095eb;
+  color: #9B2F4E;
 }
 
 .middot-divider {
@@ -1081,8 +1081,8 @@ a.label:hover {
  **************************************************/
 
 .btn-primary {
-  border-color: #0095eb !important;
-  background: #0095eb !important;
+  border-color: #9B2F4E !important;
+  background: #9B2F4E !important;
 }
 
 .btn-primary:hover,
@@ -1090,7 +1090,7 @@ a.label:hover {
 .btn-primary.active,
 .btn-primary:visited,
 .open > .dropdown-toggle.btn-primary {
-  background: #0095eb !important;
+  background: #9B2F4E !important;
 }
 
 .btn-light {
@@ -1143,12 +1143,12 @@ a.label:hover {
 }
 
 .btn-primary.btn-outline {
-  color: #0095eb !important;
-  border-color: #0095eb !important;
+  color: #9B2F4E !important;
+  border-color: #9B2F4E !important;
 }
 
 .btn-primary.btn-outline:focus {
-  color: #0095eb !important;
+  color: #9B2F4E !important;
 }
 
 .btn-primary.btn-outline:active {
@@ -1235,14 +1235,14 @@ nav#navbar-main li {
 }
 
 .navbar-default .navbar-nav>li>a:hover {
-  color: #0095eb;
+  color: #9B2F4E;
   background-color: transparent;
 }
 
 .navbar-default .navbar-nav>.active>a,
 .navbar-default .navbar-nav>.active>a:focus,
 .navbar-default .navbar-nav>.active>a:hover {
-  color: #0095eb;
+  color: #9B2F4E;
   font-weight: 700;
   background-color: transparent !important; /* Override Bootstrap. */
 }
@@ -1279,7 +1279,7 @@ nav#navbar-main li {
 
 .dropdown-menu>li>a:focus,
 .dropdown-menu>li>a:hover {
-  color: #0095eb;
+  color: #9B2F4E;
   text-decoration: none;
   background-color: #fff;
 }
@@ -1289,7 +1289,7 @@ nav#navbar-main li {
 .dropdown-menu > .active > a:hover {
   color: #fff;
   text-decoration: none;
-  background-color: #0095eb;
+  background-color: #9B2F4E;
   outline: 0;
 }
 
@@ -1404,7 +1404,7 @@ nav#navbar-main li {
   .navbar-default .navbar-nav .open .dropdown-menu > .active > a,
   .navbar-default .navbar-nav .open .dropdown-menu > .active > a:focus,
   .navbar-default .navbar-nav .open .dropdown-menu > .active > a:hover {
-    color: #0095eb;
+    color: #9B2F4E;
     background-color: transparent;
   }
 
@@ -1566,7 +1566,7 @@ body.dark {
 }
 
 .dark ul.share li a {
-  background-color: #0095eb;
+  background-color: #9B2F4E;
 }
 
 .dark table table {
@@ -1620,7 +1620,7 @@ body.dark {
 }
 
 .dark .card h4 a {
-  color: #0095eb;
+  color: #9B2F4E;
   border-bottom: solid 1px transparent;
 }
 
