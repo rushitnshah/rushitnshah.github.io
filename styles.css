@@ -192,9 +192,10 @@ h2.section-title {
 .about-bio {
   font-size: 0.97rem;
   line-height: 1.75;
-  margin-bottom: 1.2rem;
+  margin-bottom: 0.75rem;
   max-width: 54ch;
 }
+.about-bio:last-of-type { margin-bottom: 1.2rem; }
 .social-icons {
   display: flex;
   gap: 1rem;
@@ -291,7 +292,8 @@ h2.section-title {
 }
 
 /* ── INTERESTS ── */
-#interests p { font-size: 0.97rem; max-width: 58ch; line-height: 1.78; }
+#interests p { font-size: 0.97rem; max-width: 58ch; line-height: 1.78; margin-bottom: 0.75rem; }
+#interests p:last-child { margin-bottom: 0; }
 #interests a { color: var(--accent); text-decoration: none; }
 #interests a:hover { text-decoration: underline; }
 
