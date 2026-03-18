@@ -58,7 +58,7 @@ body {
   background-color: var(--bg);
   color: var(--text);
   font-family: var(--font-body);
-  font-size: 17px;
+  font-size: 21px;
   line-height: 1.72;
 }
 
@@ -146,7 +146,7 @@ section:last-of-type { border-bottom: none; }
 
 h2.section-title {
   font-family: var(--font-mono);
-  font-size: 0.68rem;
+  font-size: 0.8rem;
   font-weight: 600;
   letter-spacing: 0.14em;
   text-transform: uppercase;
@@ -162,13 +162,13 @@ h2.section-title {
 /* ── ABOUT ── */
 .about-grid {
   display: grid;
-  grid-template-columns: 136px 1fr;
+  grid-template-columns: 164px 1fr;
   gap: 2rem;
   align-items: start;
 }
 .portrait {
-  width: 136px;
-  height: 136px;
+  width: 164px;
+  height: 164px;
   border-radius: 4px;
   object-fit: cover;
   border: 1px solid var(--border);
@@ -290,10 +290,10 @@ h2.section-title {
   white-space: nowrap;
 }
 
-/* ── OUTSIDE RESEARCH ── */
-#outside p { font-size: 0.97rem; max-width: 58ch; line-height: 1.78; }
-#outside a { color: var(--accent); text-decoration: none; }
-#outside a:hover { text-decoration: underline; }
+/* ── INTERESTS ── */
+#interests p { font-size: 0.97rem; max-width: 58ch; line-height: 1.78; }
+#interests a { color: var(--accent); text-decoration: none; }
+#interests a:hover { text-decoration: underline; }
 
 /* ── CONTACT ── */
 .contact-email { font-family: var(--font-mono); font-size: 0.9rem; }
