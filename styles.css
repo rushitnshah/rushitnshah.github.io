@@ -166,6 +166,16 @@ h2.section-title {
   gap: 2rem;
   align-items: start;
 }
+.portrait-col {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.85rem;
+}
+.portrait-col .social-icons {
+  justify-content: center;
+  gap: 0.7rem;
+}
 .portrait {
   width: 164px;
   height: 164px;
@@ -186,7 +196,8 @@ h2.section-title {
 }
 .about-title {
   font-size: 0.88rem;
-  color: var(--muted);
+  color: var(--text);
+  opacity: 0.7;
   margin-bottom: 1rem;
 }
 .about-bio {
@@ -217,24 +228,6 @@ h2.section-title {
   text-decoration: none;
 }
 .resume-link:hover { color: var(--accent); }
-
-/* ── TWO-COL (interests + education in about) ── */
-.two-col {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 1.5rem;
-  margin-top: 1.3rem;
-}
-.two-col h3 {
-  font-family: var(--font-mono);
-  font-size: 0.7rem;
-  letter-spacing: 0.1em;
-  text-transform: uppercase;
-  color: var(--muted);
-  margin-bottom: 0.45rem;
-}
-.two-col ul { list-style: none; font-size: 0.9rem; }
-.two-col ul li::before { content: "›  "; color: var(--accent); }
 
 /* ── NEWS ── */
 .news-table { width: 100%; border-collapse: collapse; }
@@ -317,8 +310,9 @@ footer {
 /* ── RESPONSIVE ── */
 @media (max-width: 580px) {
   .about-grid { grid-template-columns: 1fr; }
-  .portrait { width: 100px; height: 100px; }
-  .two-col { grid-template-columns: 1fr; }
+  .portrait-col { flex-direction: row; align-items: center; gap: 1.2rem; }
+  .portrait { width: 80px; height: 80px; }
+  .portrait-col .social-icons { justify-content: flex-start; }
   .nav-links { gap: 0.9rem; }
   .nav-links li:nth-child(n+4) { display: none; }
 }
