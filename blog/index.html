@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en-us" data-theme="light">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="author" content="Rushit N. Shah">
+  <meta name="description" content="Writing on ML, RL, and things I find interesting.">
+  <link rel="icon" type="image/png" href="/img/icon.png">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" crossorigin="anonymous">
+  <link rel="stylesheet" href="/styles.css">
+  <title>Blog — Rushit N. Shah</title>
+  <style>
+    .blog-desc  { font-size: 0.97rem; color: var(--muted); margin-bottom: 2rem; max-width: 50ch; }
+    .post-list  { list-style: none; }
+    .post-entry { display: flex; gap: 1.5rem; align-items: baseline;
+                   padding: 0.5rem 0; border-bottom: 1px solid var(--border); }
+    .post-entry:last-child { border-bottom: none; }
+    .post-date  { font-family: var(--font-mono); font-size: 0.78rem; color: var(--muted);
+                   white-space: nowrap; width: 6.5rem; flex-shrink: 0; }
+    .post-info  { font-size: 0.92rem; }
+    .post-info a { color: var(--text); text-decoration: none; font-weight: 500; }
+    .post-info a:hover { color: var(--accent); }
+    .post-desc  { font-size: 0.85rem; color: var(--muted); margin-top: 0.1rem; }
+  </style>
+</head>
+<body>
+<nav>
+  <div class="nav-inner">
+    <a class="nav-brand" href="/">Rushit N. Shah</a>
+    <ul class="nav-links">
+      <li><a href="/">Home</a></li>
+      <li><a href="/#publications">Publications</a></li>
+      <li><a href="/#contact">Contact</a></li>
+      <li>
+        <button class="theme-toggle" id="theme-toggle" aria-label="Toggle theme">
+          <i class="fa fa-moon-o" id="toggle-icon"></i>
+        </button>
+      </li>
+    </ul>
+  </div>
+</nav>
+<main>
+  <section>
+    <h2 class="section-title">Blog</h2>
+    <p class="blog-desc">Occasional writing on ML, RL, and things I find interesting.</p>
+    <ul class="post-list">
+      <li class="post-entry">
+        <span class="post-date">Mar 17, 2026</span>
+        <div class="post-info">
+          <a href="/blog/posts/2026-03-17-hello.html">Hello, World</a>
+          <div class="post-desc">First post. Why I'm starting to write.</div>
+        </div>
+      </li>
+    </ul>
+  </section>
+</main>
+<footer>
+  <span>&copy; 2026 Rushit N. Shah</span>
+  <a class="back-to-top" href="#top">↑ top</a>
+</footer>
+<script src="/js/site.js"></script>
+</body>
+</html>
